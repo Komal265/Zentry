@@ -104,7 +104,7 @@ const Features = () => {
               src="videos/feature-2.mp4"
               title={
                 <>
-                  zig<b>m</b>a
+                  his<b>o</b>ka
                 </>
               }
               description="An anime and gaming-inspired NFT collection - the IP primed for expansion."
@@ -129,7 +129,7 @@ const Features = () => {
               src="videos/feature-4.mp4"
               title={
                 <>
-                  az<b>u</b>l
+                  Mer<b>u</b>em
                 </>
               }
               description="A cross-world AI Agent - elevating your gameplay to be more fun and productive. "

@@ -3,8 +3,6 @@ import { FaDiscord, FaGithub, FaLinkedin, FaTwitter } from 'react-icons/fa'
 
 const Links = [
     {href: 'https://github.com/Komal265', icon: <FaGithub/>},
-    {href: ' ', icon: <FaDiscord/>},
-    {href: ' ', icon: <FaTwitter/>},
     {href: ' ', icon: <FaLinkedin/>},
 ]
 
@@ -16,7 +14,7 @@ const Footer = () => {
 
             <div className='flex justify-center gap-4 md:justify-start'>
                 {Links.map((link) => (
-                    <a key={link} href= {link.href} target= "_blank"
+                    <a key={link.href} href= {link.href} target= "_blank"
                     rel='noopener noreferrer' className='text-black transition-colors duration-500 ease-in-out hover:text-white'>
                         {link.icon}
                     </a>
