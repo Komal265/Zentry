@@ -151,6 +151,6 @@ This project was built to study GSAP's animation system alongside my existing Re
 
 ---
 
-**Made with 🎮 + ☕ by [Komal](https://github.com/Komal265)**
+**Made with 🎮 + ☕ by [Komal Salunkhe](https://github.com/Komal265)**
 
 </div>
