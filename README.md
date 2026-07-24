@@ -1,14 +1,16 @@
 <div align="center">
 
-# ⚡ ZENTRY ⚡
+#   ZENTRY 
 
-### *Enter a world where motion tells the story.*
+### _Enter a world where motion tells the story._
 
 ![React](https://img.shields.io/badge/React-18.3-149eca?style=for-the-badge&logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-Build-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-3.12.5-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-3.4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)
+
+### 🔗 [**Live Demo**](https://zentry-nu-six.vercel.app/)
 
 </div>
 
@@ -26,27 +28,27 @@ Words rotate into place. Clip-paths carve open to reveal new scenes. Video scale
 
 ## ✨ Feature Set
 
-| | |
-|---|---|
-| 🎬 **Cinematic Hero** | Video-based hero section with smooth click-triggered transitions |
-| ✨ **Text FX** | Scroll-triggered text animations with 3D word transforms |
-| 🔷 **Geometric Reveals** | Clip-path masks that carve open new scenes |
-| 🧩 **Bento Grid** | Animated feature showcase in a bento-style layout |
-| 🧭 **Floating Nav** | Scroll-aware navbar that reacts as you move |
-| 🎞️ **Layered Timelines** | GSAP timelines composing multiple animated layers per section |
+|                          |                                                                  |
+| ------------------------ | ---------------------------------------------------------------- |
+| 🎬 **Cinematic Hero**    | Video-based hero section with smooth click-triggered transitions |
+| ✨ **Text FX**           | Scroll-triggered text animations with 3D word transforms         |
+| 🔷 **Geometric Reveals** | Clip-path masks that carve open new scenes                       |
+| 🧩 **Bento Grid**        | Animated feature showcase in a bento-style layout                |
+| 🧭 **Floating Nav**      | Scroll-aware navbar that reacts as you move                      |
+| 🎞️ **Layered Timelines** | GSAP timelines composing multiple animated layers per section    |
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category | Technology |
-|---|---|
-| Language | JavaScript (React) |
-| Framework / Runtime | React 18.3 + Vite + Node.js |
-| Animation | GSAP 3.12.5 (with ScrollTrigger) |
-| Styling | Tailwind CSS 3.4 |
-| Icons | react-icons |
-| Utilities | react-use |
+| Category            | Technology                       |
+| ------------------- | -------------------------------- |
+| Language            | JavaScript (React)               |
+| Framework / Runtime | React 18.3 + Vite + Node.js      |
+| Animation           | GSAP 3.12.5 (with ScrollTrigger) |
+| Styling             | Tailwind CSS 3.4                 |
+| Icons               | react-icons                      |
+| Utilities           | react-use                        |
 
 ---
 
@@ -94,6 +96,8 @@ The **Hero** section uses component state to handle video transitions, triggerin
 ---
 
 ## 🚀 Getting Started
+
+🔗 **Live Demo:** [zentry-nu-six.vercel.app](https://zentry-nu-six.vercel.app/)
 
 ### Prerequisites
 
@@ -151,6 +155,6 @@ This project was built to study GSAP's animation system alongside my existing Re
 
 ---
 
-**Made with 🎮 + ☕ by [Komal Salunkhe](https://github.com/Komal265)**
+**Made with 🎮 + ☕ by [Komal](https://github.com/Komal265)**
 
 </div>
