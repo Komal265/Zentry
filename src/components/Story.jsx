@@ -4,6 +4,8 @@ import { useRef } from "react";
 import gsap from "gsap";
 import RounderCorners from "./RounderCorners";
 import Button from "./Button";
+import Navbar from "./Navbar";
+
 
 const Story = () => {
   const frameRef = useRef(null);
