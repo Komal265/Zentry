@@ -3,7 +3,7 @@ import { FaDiscord, FaGithub, FaLinkedin, FaTwitter } from 'react-icons/fa'
 
 const Links = [
     {href: 'https://github.com/Komal265', icon: <FaGithub/>},
-    {href: ' ', icon: <FaLinkedin/>},
+    {href: 'https://www.linkedin.com/in/komal-salunkhe-328ba4347/ ', icon: <FaLinkedin/>},
 ]
 
 const Footer = () => {
