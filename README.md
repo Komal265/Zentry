@@ -10,7 +10,7 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind-3.4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)
 
-### 🔗 [**Live Demo**](https://zentry-nu-six.vercel.app/)
+### 🔗 [**Live Demo**](https://zentry-zoro.vercel.app/)
 
 </div>
 
