@@ -164,7 +164,7 @@ const Hero = () => {
               id="watch-trailer"
               title="Watch Trailer"
               leftIcon={<TiLocationArrow />}
-              containerClass="!bg-yellow-300 flex items-center gap-1"
+              containerClass="!bg-yellow-300 flex items-center gap-1 transition-transform duration-300 hover:scale-110"
               onClick={() =>
                 window.open(
                   "https://youtu.be/x1_-btXPWpc?si=3LVNDZoQtLhS9ADg",
