@@ -10,7 +10,7 @@ const Footer = () => {
   return (
     <footer className='w-screen bg-violet-300 py-4 text-black '>
         <div className='container mx-auto flex flex-col items-center justify-between gap-4 md:flex-row '>
-            <p className='text-center test-sm md:text-left px-4'>Komal Salunkhe</p>
+            <p className='text-center test-sm md:text-left px-4 text-white font-general uppercase'>Komal Salunkhe</p>
 
             <div className='flex justify-center gap-4 md:justify-start'>
                 {Links.map((link) => (
@@ -20,7 +20,7 @@ const Footer = () => {
                     </a>
                 ))}
             </div>
-            <div className='text-center text-sm  hover:underline md:text-right '>ksalunkhe830@gmail.com</div>
+            <div className='text-center text-sm  hover:underline md:text-right text-white font-general'>ksalunkhe830@gmail.com</div>
             
         </div>
     </footer>
