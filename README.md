@@ -97,7 +97,7 @@ The **Hero** section uses component state to handle video transitions, triggerin
 
 ## 🚀 Getting Started
 
-🔗 **Live Demo:** [zentry-nu-six.vercel.app](https://zentry-nu-six.vercel.app/)
+🔗 **Live Demo:** [zentry-nu-six.vercel.app](https://zentry-zoro.vercel.app/)
 
 ### Prerequisites
 
